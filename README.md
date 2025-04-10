@@ -9,18 +9,20 @@
 * No terminal, execute o index.js utilizando o Node.
 * On terminal, use Node to run index.js
 
-![Gerador de QR-Code em funcionamento](./images/generator_img_1)
+![Gerador de QR-Code em funcionamento](./Generator/images/generator_img_1.png)
 
 * Logo após, o programa solicitará a URL (link) para ser convertido.
 * After that, the program will ask for a URL (link) to be converted.
 
-![Gerador de QR-Code em funcionamento](./images/generator_img_2)
+![Gerador de QR-Code em funcionamento](./Generator/images/generator_img_2.png)
 
 * Digite 'enter' e aguarde o QR-Code ser gerado no diretório corrente.
 * Type 'enter' and wait for the QR-Code to be generated in the current directory.
 
-![Gerador de QR-Code em funcionamento](./images/generator_img_3)
-![Gerador de QR-Code em funcionamento](./images/generator_img_4)
+![Gerador de QR-Code em funcionamento](./Generator/images/generator_img_3.png)
+![Gerador de QR-Code em funcionamento](./Generator/images/generator_img_4.png)
+<br />
+![Gerador de QR-Code em funcionamento](./Generator/images/qr_image.png)
 
 ---
 
